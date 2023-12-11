@@ -19,10 +19,21 @@ export const About = () => {
           steadfast. We are committed to leveraging this powerful tool to
           continuously improve and redefine the customer experience.
         </p>
-        <h1 className="text-[40px] font-sm pb-0.1 text-center font-bold text-primaryColor">
+        <h1 className="text-[40px] font-sm pt-16 text-center font-bold text-primaryColor">
           MEET THE TEAM
         </h1>
-        <p className="text-sm text-center mb-24"><i>that fueled by coffee and inspiration</i></p>
+        <p className="text-sm text-center pb-16"><i>that fueled by coffee and inspiration</i></p>
+        <div className="flex gap-5 justify-center">
+          <div className="w-[300px] h-[450px] bg-black rounded-lg">
+
+          </div>
+          <div className="w-[300px] h-[450px] bg-black rounded-lg">
+
+          </div>
+          <div className="w-[300px] h-[450px] bg-black rounded-lg">
+
+          </div>
+        </div>
       </div>
     </>
   );
