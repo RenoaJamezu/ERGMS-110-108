@@ -8,7 +8,7 @@ export const About = () => {
         <p className="text-center mb-12 px-48">
           Driven by our unwavering commitment to excellence and efficiency, we
           are thrilled to unveil eRGMS, an innovative system developed in
-          collaboration with Caraga State University's Office of Resource
+          collaboration with Caraga State Universitys Office of Resource
           Generation Management Services (RGMS). This innovative project
           embodies our ambition to expand our reach, unlock new possibilities,
           and elevate the customer experience to unparalleled heights.

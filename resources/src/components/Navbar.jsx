@@ -1,7 +1,7 @@
 export const Navbar = () => {
   return (
     <>
-      <div className="fix max-w-screen flex flex-wrap items-center justify-between h-[70px] px-10 drop-shadow-lg">
+      <div className="fix max-w-screen flex flex-wrap items-center justify-between h-[70px] px-10 drop-shadow-lg bg-white">
         <div>
           <img src="../public/images/Logo.png"
             alt="Logo"
