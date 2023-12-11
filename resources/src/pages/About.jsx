@@ -1,7 +1,7 @@
 export const About = () => {
   return (
     <>
-      <div>
+      <div className="py-32" id="about">
         <h1 className="text-[40px] font-sm pb-10 px-96 text-center font-bold text-primaryColor">
           WHY CHOOSE US?
         </h1>

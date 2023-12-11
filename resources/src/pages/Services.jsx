@@ -1,9 +1,9 @@
 export const Services = () => {
   return (
     <>
-      <div className="py-16" id="services">
+      <div className="py-32" id="services">
         <div>
-          <h1 className="text-[40px] font-sm pb-10 px-96 text-center font-bold text-primaryColor">
+          <h1 className="text-[40px] font-sm pb-10 px-96 text-center font-semibold text-primaryColor">
             SERVICES WE OFFER
           </h1>
         </div>

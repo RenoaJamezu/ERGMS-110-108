@@ -1,7 +1,7 @@
 export const Heropage = () => {
   return (
     <>
-      <div className="flex flex-col items-center text-center py-32">
+      <div className="flex flex-col items-center text-center py-52">
         <h1 className="text-[60px] font-bold px-80 text-white">
           Take your business to the{" "}
           <span className="text-primaryColor">next level.</span>
